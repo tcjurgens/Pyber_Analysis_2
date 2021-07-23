@@ -13,3 +13,11 @@ Below, I have added screenshots from my PyBer_Challenge_final_code.ipynb (this s
 Some interesting notes from this data is that in both rural and suburban cities there were more total rides than total drivers (Urban cities had more total drivers than total rides), and similarly in both rural and suburban cities the Avg. Fare per Ride was less than the Avg. Fare per Driver (Urban cities had a higher Avg. Fare per Ride than Driver). It appears that these figures are correlated, and that if driver total and ride total were closer to even, so would be driver and ride fares.
 
 ## Summary
+
+To sumarize to the CEO: it is clear that Urban cities bring in more cash flow- and this makes sense- theres more people in a close proximity so it is more likely that PyBer will be used. Also, in urban cities often people dont have their own transportation- so they have to look to ride sharing to get around more often. If the CEO were to expand PyBer to more urban cities- they can expect similarly large cashflow via farer. However; it would likely be difficult to match the total drivers count to total riders count- but thats ok.
+
+If the CEO wanted to increase the Average Fare per Ride in Urban cities to resemble Suburban or Urban numbers- they would likely have to cap the number of drivers in those cities, supply-demand would mean that the riders would have to pay more to get a ride. However, I am not sure this is a reccomendable strategy.
+
+An issue with cities having less drivers than rides
+
+
